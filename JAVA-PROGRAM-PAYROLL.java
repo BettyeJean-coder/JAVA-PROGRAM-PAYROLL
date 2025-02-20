@@ -7,8 +7,8 @@
 // Input: federalWithholding (decimal)
 // Input: stateWithholding (decimal)
 // Output: employeeName, hoursWorked, hourlyPay, grossPay
-// Output: federalWithheld, stateWithheld, totalWithheld
-// Output: netPay
+// Output: federalWithheld, stateWithheld, totalWithheld   
+// Output: netPay   
 // NOTE: Your input and output MUST match the format provided in the samples.
 // NOTE: When outputting currency, you MUST use printf, not the "trick" we were using before.
 // NOTE: You MUST use appropriate selection logic to validate user input. Use the assumptions 
